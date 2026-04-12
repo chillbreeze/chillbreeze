@@ -8,7 +8,6 @@ Building toward remote DevOps work through hands-on projects.
 - Learning HTML/CSS, JavaScript, Python, and C++
 
 **Tech I work with:**
-Linux · Docker · ESPHome · Home Assistant · InfluxDB · Grafana · Flask · Networking
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
