@@ -13,8 +13,6 @@ Linux · Docker · ESPHome · Home Assistant · InfluxDB · Grafana · Flask · 
 - [aqi.siemreap.cloud](https://aqi.siemreap.cloud)
 - [projectterry.net](https://projectterry.net)
 
-[![Terry's GitHub stats](https://github-readme-stats.vercel.app/api?username=chillbreeze&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
