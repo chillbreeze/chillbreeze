@@ -3,15 +3,12 @@ Linux sysadmin and self-hosting enthusiast.
 Building toward remote DevOps work through hands-on projects.
 
 **Currently working on:**
-- [Air quality monitoring site](https://aqi.siemreap.cloud) — SEN55 sensor → ESPHome → InfluxDB → Flask
+- [Air quality monitoring site](https://air.siemreap.cloud) — SEN55 sensor → ESPHome → InfluxDB → Flask
+- [Khmer language learning size](https://learn.khmer.cloud)
 - Learning HTML/CSS and Python
 
 **Tech I work with:**
 Linux · Docker · ESPHome · Home Assistant · InfluxDB · Grafana · Flask · Networking
-
-**Live projects:**
-- [aqi.siemreap.cloud](https://aqi.siemreap.cloud)
-- [projectterry.net](https://projectterry.net)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
