@@ -5,7 +5,7 @@ Building toward remote DevOps work through hands-on projects.
 **Currently working on:**
 - [Air quality monitoring site](https://air.siemreap.cloud) — SEN55 sensor → ESPHome → InfluxDB → Flask
 - [Khmer language learning site](https://learn.khmer.cloud)
-- Learning HTML/CSS and Python
+- Learning HTML/CSS, JavaScript, C++, and Python
 
 **Tech I work with:**
 Linux · Docker · ESPHome · Home Assistant · InfluxDB · Grafana · Flask · Networking
