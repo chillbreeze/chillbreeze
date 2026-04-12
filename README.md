@@ -4,7 +4,7 @@ Building toward remote DevOps work through hands-on projects.
 
 **Currently working on:**
 - [Air quality monitoring site](https://air.siemreap.cloud) — SEN55 sensor → ESPHome → InfluxDB → Flask
-- [Khmer language learning size](https://learn.khmer.cloud)
+- [Khmer language learning site](https://learn.khmer.cloud)
 - Learning HTML/CSS and Python
 
 **Tech I work with:**
