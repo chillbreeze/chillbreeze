@@ -23,3 +23,4 @@ Building toward remote DevOps work through hands-on projects.
 **Contact:**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/ProjectTerry)
+[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=flat&logo=protonmail&logoColor=white)](mailto:projectterry@proton.me)
