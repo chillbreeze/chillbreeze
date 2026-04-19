@@ -3,6 +3,7 @@ Linux sysadmin and self-hosting enthusiast.
 Building toward remote DevOps work through hands-on projects.
 
 **Currently working on:**
+- Portfolio: [projectterry.net](https://projectterry.net)
 - [Air quality monitoring site](https://air.siemreap.cloud) — SEN55 sensor → ESPHome → InfluxDB → Flask
 - [Khmer language learning site](https://learn.khmer.cloud)
 - Learning HTML/CSS, JavaScript, Python, and C++
