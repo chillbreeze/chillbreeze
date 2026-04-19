@@ -6,7 +6,7 @@ Building toward remote DevOps work through hands-on projects.
 - Portfolio: [projectterry.net](https://projectterry.net)
 - [Air quality monitoring site](https://air.siemreap.cloud) — SEN55 sensor → ESPHome → InfluxDB → Flask
 - [Khmer language learning site](https://learn.khmer.cloud)
-- Learning HTML/CSS, JavaScript, Python, and C++
+- Actively expanding into JavaScript and Python
 
 **Tech I work with:**
 
