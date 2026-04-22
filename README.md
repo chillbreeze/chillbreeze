@@ -23,4 +23,4 @@ Building toward remote DevOps work through hands-on projects.
 
 You can also find me on:
 
-[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/yourusername)
+[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/chillbreeze)
