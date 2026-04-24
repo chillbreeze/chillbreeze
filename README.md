@@ -18,6 +18,7 @@ Building toward remote DevOps work through hands-on projects.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white)
 
+## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=chillbreeze&theme=dark)](https://git.io/streak-stats)
 
 ## You can also find me on
