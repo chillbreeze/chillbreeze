@@ -2,14 +2,13 @@
 Linux sysadmin and self-hosting enthusiast.
 Building toward remote DevOps work through hands-on projects.
 
-**Currently working on:**
+## Currently working on
 - Portfolio: [projectterry.net](https://projectterry.net)
 - [Air quality monitoring site](https://air.siemreap.cloud) — SEN55 sensor → ESPHome → InfluxDB → Flask
 - [Khmer language learning site](https://learn.khmer.cloud)
 - Actively expanding into JavaScript and Python
 
-**Tech I work with:**
-
+## Tech I work with
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
@@ -21,6 +20,5 @@ Building toward remote DevOps work through hands-on projects.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chillbreeze&theme=dark)](https://git.io/streak-stats)
 
-You can also find me on:
-
+## You can also find me on
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/chillbreeze)
