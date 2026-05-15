@@ -18,8 +18,8 @@ Building toward remote DevOps work through hands-on projects.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=flat&logo=esphome&logoColor=white)
 
-## Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=chillbreeze&theme=dark)](https://git.io/streak-stats)
+<!-- ## Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=chillbreeze&theme=dark)](https://git.io/streak-stats) -->
 
 ## You can also find me on
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/chillbreeze)
