@@ -21,5 +21,5 @@ Building toward remote DevOps work through hands-on projects.
 <!-- ## Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=chillbreeze&theme=dark)](https://git.io/streak-stats) -->
 
-## You can also find me on
+## You can also find my projects on
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=flat&logo=codeberg&logoColor=white)](https://codeberg.org/chillbreeze)
